@@ -1,0 +1,65 @@
+[
+  {
+    "imageFile": "food1",
+    "foodloversName": "สลัดอกไก่ซอส",
+    "imagePin": "pin01",
+    "caption": "Sundays",
+    "price": "100 บาท",
+    "imageStart": "s01",
+    "description": "แองเจิ้ลแฮร์น้ำพริกนรกไข่กุ้ง โรยไข่กุ้งมาจัดเต็มอร่อยๆ"
+  },
+  {
+    "imageFile": "food2",
+    "foodloversName": "หมูหมักซอส",
+    "imagePin": "pin01",
+    "caption": "Kosirae",
+    "price": "89 บาท",
+    "imageStart": "s02",
+    "description": "อัดแน่นด้วยเนื้อๆๆๆ คุณภาพจัดเต็ม"
+  },
+  {
+    "imageFile": "food3",
+    "foodloversName": "ข้าวหมูแดงกรอบ",
+    "imagePin": "pin01",
+    "caption": "ข้าวหมูแดงสีมรกต Soi Su Korn 1",
+    "price": "50 บาท",
+    "imageStart": "s03",
+    "description": "อิ่มหมูแน่นๆกับข้าวหมูแดงชื่อดังระดับตำนาน"
+  },
+  {
+    "imageFile": "food4",
+    "foodloversName": "หมูสะเต๊ะ",
+    "imagePin": "pin01",
+    "caption": "ครัวสา รสจัด",
+    "price": "100 บาท",
+    "imageStart": "s04",
+    "description": "รสชาติกลางๆ ไม่จัดจ้านอย่างชื่อ"
+  },
+  {
+    "imageFile": "food5",
+    "foodloversName": "ซุปเปอร์ขาไก่",
+    "imagePin": "pin01",
+    "caption": "ซ้งเป็ดพะโล้ สี่แยกวังหิน",
+    "price": "90 บาท",
+    "imageStart": "s05",
+    "description": "ตำนานซุปเปอร์ขาไก่ที่ตามหา เป็ดพะโล้ก็เนื้อนุ่มอร่อย"
+  },
+  {
+    "imageFile": "food6",
+    "foodloversName": "ขนมจีบกุ้ง",
+    "imagePin": "pin01",
+    "caption": "ตวง ติ่มซำ",
+    "price": "30 บาท",
+    "imageStart": "s06",
+    "description": "ติ่มซำเชฟยิป อิ่มอร่อย สบายกระเป๋า"
+  },
+  {
+    "imageFile": "food7",
+    "foodloversName": "สลัดไก่ย่าง",
+    "imagePin": "pin01",
+    "caption": "Farm to Table ไฮด์เอาท์",
+    "price": "80 บาท",
+    "imageStart": "s07",
+    "description": "อาหารและผัดสดๆเพื่อสุขภาพ"
+  }
+]
